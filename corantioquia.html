@@ -10,13 +10,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-    <link rel="stylesheet" href="./estilos.css">
+    <link rel="stylesheet" href="./estiloscorantioquia.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 </head>
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg bg-dark navbar-dark animate__animated animate__backInLeft ">
+        <nav class="navbar navbar-expand-lg animate__animated animate__backInLeft" style="background-color: #8CC63F;" >
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">Navbar</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -27,7 +27,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="corantioquia.html">Corantioquia</a>
@@ -66,39 +66,61 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-md-4 text-center">
-                        <h2>Estadisticas empleado</h2>
-                        <img src="./img/tigre.jpg" alt="" class="img-fluid w-100">
+                        <h2>Estadisticas</h2>
+                        <img src="./img/Logo-Corantioquia.jpg" alt="" class="img-fluid w-100">
                     </div>
                     <div class="col-12 col-md-8">
                         <ul class="nav nav-tabs" id="myTab" role="tablist">
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link active" id="home-tab" data-bs-toggle="tab"
                                     data-bs-target="#home-tab-pane" type="button" role="tab"
-                                    aria-controls="home-tab-pane" aria-selected="true">Analistas 1</button>
+                                    aria-controls="home-tab-pane" aria-selected="true">Datos por municipio</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="home-tab" data-bs-toggle="tab"
+                                    data-bs-target="#home-tab-pane" type="button" role="tab"
+                                    aria-controls="home-tab-pane" aria-selected="true">Medellín</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="home-tab" data-bs-toggle="tab"
+                                    data-bs-target="#home-tab-pane" type="button" role="tab"
+                                    aria-controls="home-tab-pane" aria-selected="true">Caucasia</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="home-tab" data-bs-toggle="tab"
+                                    data-bs-target="#home-tab-pane" type="button" role="tab"
+                                    aria-controls="home-tab-pane" aria-selected="true">Santa Fe de Antioquia</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="home-tab" data-bs-toggle="tab"
+                                    data-bs-target="#home-tab-pane" type="button" role="tab"
+                                    aria-controls="home-tab-pane" aria-selected="true">Rio Arriba y la Salazar de
+                                    Belmira</button>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="profile-tab" data-bs-toggle="tab"
                                     data-bs-target="#profile-tab-pane" type="button" role="tab"
-                                    aria-controls="profile-tab-pane" aria-selected="false">Analistas 2</button>
+                                    aria-controls="profile-tab-pane" aria-selected="false">veredas Quitasol de
+                                    Bello</button>
                             </li>
                             <li class="nav-item" role="presentation">
                                 <button class="nav-link" id="contact-tab" data-bs-toggle="tab"
                                     data-bs-target="#contact-tab-pane" type="button" role="tab"
-                                    aria-controls="contact-tab-pane" aria-selected="false">Filtro</button>
+                                    aria-controls="contact-tab-pane" aria-selected="false">Caramanta</button>
                             </li>
                         </ul>
                         <div class="tab-content" id="myTabContent">
                             <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel"
                                 aria-labelledby="home-tab" tabindex="0">
-                                <iframe src="datosanalista1.html" frameborder="0" class="w-100" heigth = "400"></iframe>
+                                <iframe src="datosanalista1.html" frameborder="0" class="w-100" heigth="400"></iframe>
                             </div>
                             <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel"
                                 aria-labelledby="profile-tab" tabindex="0">
-                                <iframe src="datosanalista2.html" frameborder="0" class="w-100" heigth = "400"></iframe>
+                                <iframe src="datosanalista2.html" frameborder="0" class="w-100" heigth="400"></iframe>
                             </div>
                             <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel"
                                 aria-labelledby="contact-tab" tabindex="0">
-                                <iframe src="datosanalista2.html" frameborder="0" class="w-100" heigth = "400"></iframe>
+                                <iframe src="datosanalista2.html" frameborder="0" class="w-100" heigth="400"></iframe>
                             </div>
                         </div>
                     </div>
@@ -121,32 +143,47 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-12">
-                                <img src="./img/Créditos.jpg" alt="foto" class="img-fluid w-100 mx-auto d-block">
-                                <h2>David Nieto Suarez</h2>
-                                <p>Soy ingeniero financiero con 4 años de experiencia en la gestión de información
-                                    financiera y de negocio, actualmente trabajo en SEGUROS SURA, donde he desarrollado
-                                    habilidades en el manejo y análisis de datos, big data, robotic process automation,
-                                    SQL, R, herramientas ofimáticas, SAP, etc.
+                                <img src="./img/quienes somos.jpg" alt="foto" class="img-fluid w-100 mx-auto d-block">
+                                <h2>Quienes Somos</h2>
+                                <p>
+                                <p>
+                                <h3>Misión</h3>
 
-                                    Durante vida laboral en SURA hice parte del equipo de operaciones financieras, en
-                                    ese rol mi función era la gestión de la información de recaudo, beneficios a
-                                    empleados, cartera, desembolso entre otros rubros, además he realizado
-                                    automatizaciones a partir de herramientas como POWER APP, POWER AUTOMATE, RPA, SQL,
-                                    RSTUDIO, UIPATH, VBA, estas automatizaciones disminuyeron los tiempos de trabajo
-                                    para el talento humano de la gerencia de servicios financieros.
+                                Contribuir al logro del desarrollo sostenible, mediante el conocimiento y
+                                mejoramiento de la oferta ambiental y la administración del uso de los recursos para
+                                responder a su demanda, a través de la construcción de una cultura ambiental del
+                                territorio.
+                                </p>
+                                <p>
+                                <h3>Visión</h3>
 
-                                    Actualmente pertenezco a la gerencia de servicios generales, y soy el líder de
-                                    información, mi función principal es gestionar la información de las diferentes
-                                    áreas de negocio, y apalancar el mejoramiento continuo de procesos a partir de
-                                    automatizaciones.
+                                VISIÓN PGAR 2020 -2031 Escenario de Sostenibilidad Ambiental
+                                En 2031 los 80 municipios del centro de Antioquia forman un territorio sostenible en
+                                el que se protege el patrimonio ambiental biodiverso, se desarrollan actividades
+                                económicas en armonía con la madre tierra y sus actores regionales son
+                                corresponsables en la conservación de la diversidad biológica, étnica y cultural, y
+                                el respeto a la dignidad humana, para el buen vivir de las generaciones presentes y
+                                futuras.
+                                </p>
+                                <p>
+                                <h3>Objeto</h3>
 
-                                    Mis compañeros me conocen como una persona dispuesta hacerse cargo, con iniciativa,
-                                    responsable, respetuoso y confiable, me gusta trabajar en equipo y creo firmemente
-                                    que compartir el conocimiento y ayudar al otro, es ayudarte a si mismo, además me
-                                    gusta escuchar atentamente a los demás y tengo la capacidad de solucionar los retos
-                                    laborales y personales que se presentan en la cotidianidad.
+                                Nos ocupamos de la ejecución de las polí­ticas, planes, programas y proyectos sobre
+                                el medio ambiente y recursos naturales renovables, así­ como de dar cumplida y
+                                oportuna aplicación a las disposiciones legales vigentes sobre su disposición,
+                                manejo y aprovechamiento, conforme a las regulaciones, pautas y directrices
+                                expedidas por el Ministerio del Medio Ambiente.
 
-                                    Muchas gracias por llegar hasta acá.</p>
+                                </p>
+                                <p>
+                                <h3>Funciones</h3>
+
+                                Ley 99 de 1993 “Por la cual se crea el Ministerio del Medio Ambiente, se reordena el
+                                Sector Público encargado de la gestión y conservación del medio ambiente y los
+                                recursos naturales renovables, se organiza el Sistema Nacional Ambiental, SINA, y se
+                                dictan otras disposiciones»
+                                </p>
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -160,6 +197,10 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
         crossorigin="anonymous"></script>
+
+
+
+
 </body>
 
 </html>

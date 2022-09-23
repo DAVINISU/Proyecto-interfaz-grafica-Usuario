@@ -1,0 +1,501 @@
+﻿nombres,cargo,salario,porcentajeDeduccion,edad
+Concha Priego Reyes,analista1,5972200,10,39
+Purificación Márquez,analista1,5922409,3,23
+Omar Costa-Oller,analista2,5109521,17,26
+Américo Arregui Rosa,analista2,4366711,20,27
+Benjamín Ramos Alberdi,analista2,5869476,17,22
+Carmelita Garay Domínguez,analista2,4821689,10,48
+Leandro Frías Vargas,analista2,5791532,6,53
+Benigna del Córdoba,analista2,3511063,26,49
+Ariel Castejón Aguilera,analista2,3563418,21,27
+Clarisa Rosalía Balaguer Pons,analista2,3835012,5,41
+Flor Diaz-Sala,analista1,3911823,27,38
+Leocadia Cabanillas,analista1,5944520,30,32
+Valero Isaías Solano Izaguirre,analista1,5386746,27,26
+Paca Alemán Aller,analista1,3842234,7,55
+Jeremías Galván Larrea,analista1,5706602,22,39
+Nicanor Franch Cruz,analista1,4787633,10,23
+Azeneth Morell Rubio,analista1,3524166,6,52
+Darío del Marco,analista1,5159439,23,26
+Alberto Arellano-Sanchez,analista1,4300909,20,49
+Lucas Morcillo Laguna,analista1,3613330,11,25
+Emilia Zabala Cuéllar,analista1,5334219,15,29
+Pepita de Tello,analista1,4130098,0,26
+Luna Chaparro Barros,analista1,5128054,8,51
+Ceferino Salvà,analista1,4716543,4,36
+Micaela Rivero Cerezo,analista1,5241301,10,52
+Ainoa Nicolau Villanueva,analista1,3544506,24,47
+Antonia Garzón Gracia,analista1,4498305,3,44
+Elba Dionisia Salvador Villalonga,analista1,5923020,27,32
+Jessica Montesinos Font,analista1,5828010,14,40
+Juana Baquero Cuéllar,analista1,5325136,8,45
+Bernardita Morcillo,analista1,4760376,9,37
+Aurelio Vinicio Carrasco Piña,analista1,4959593,30,30
+Haydée Madrigal,analista1,5918457,29,47
+Abraham Barreda,analista1,5881839,4,49
+Adelaida Lobo Piñol,analista1,4703855,20,41
+Pedro Riquelme Collado,analista1,4011942,28,33
+Cloe Alcalá,analista1,5886505,26,40
+Julia Soria Rius,analista1,4427377,24,24
+Pancho Ibañez Romero,analista1,3726764,29,48
+Baldomero Prats Otero,analista1,5808556,22,23
+Isabel Domingo Alvarado,analista1,4077288,27,46
+Emilia Carreño Piñeiro,analista2,5360465,27,43
+Ruben Bello Álvaro,analista2,5002069,20,26
+Remedios Vega Julián,analista2,4285330,8,43
+Ileana Milla Franch,analista2,4030692,25,48
+Francisco Jose Torrijos,analista2,5841438,25,29
+Cipriano Pont Garzón,analista2,5595026,1,22
+Jose Angel Marquez Somoza,analista2,3792730,20,42
+Reynaldo Sainz Bejarano,analista2,4879504,24,35
+Benigno Viana Lamas,analista2,3545665,15,32
+Miguel Ángel Arregui Galiano,analista2,4937056,2,54
+Cintia Miralles-Mena,analista2,4114277,10,30
+Isidro Vizcaíno,analista2,3785496,23,50
+Godofredo Rocamora Aguilera,analista2,5710430,30,30
+Begoña Téllez,analista2,5806429,21,27
+Matías Busquets Baeza,analista2,3735104,1,32
+Hilda Ropero,analista2,5121131,12,28
+Angelita Perera Codina,analista2,5987876,14,33
+Yaiza Revilla Tejada,analista2,5642427,10,29
+Heriberto Arcos Cabrero,analista2,4825167,27,32
+Perlita del Acuña,analista2,4500310,26,36
+Florencia Carreño Espejo,analista2,4587510,25,46
+Federico Díez-Ariza,analista2,4643429,1,30
+Ezequiel Reig Lucena,analista2,3853384,25,31
+Eligio Barbero Morillo,analista2,5969628,17,22
+Sebastián Roda Bosch,analista2,3867909,7,28
+Rubén Exposito Cózar,analista2,4063636,7,28
+Rosendo Berrocal Roda,analista2,5574005,16,25
+Benito Gómez-Pomares,analista2,5222898,26,44
+Julián Cánovas Zabala,analista2,4931412,20,27
+Severiano Vicens Botella,analista2,5987581,3,35
+Vicenta Rubio Ariño,analista2,4270837,1,51
+Bartolomé Pozo Armengol,analista2,5055784,19,32
+Marisa Julieta Quirós Palomar,analista2,5336011,1,46
+Edelmira del Arrieta,analista2,4469485,27,29
+Maxi Peiró,analista2,5487923,3,36
+Zaida Hoz,analista2,3864297,19,47
+Aníbal Millán Guardia,analista1,5632997,25,26
+Inocencio Ballester Caro,analista1,5086515,17,29
+Ani Gárate Lucena,analista1,4968070,27,52
+Wálter Marcos Barreda Vicens,analista1,5867851,3,33
+Salomón Ortiz Franch,analista1,5194087,25,48
+Sabas Zabaleta Valcárcel,analista1,4690033,21,44
+Mariana Sanmiguel Rodríguez,analista1,5331479,18,52
+Visitación Andrés Peláez,analista1,5462289,20,30
+Nando Tejero Baró,analista1,4480123,29,29
+Susana de Peñas,analista1,3964649,23,32
+Merche Tejero Jaén,analista1,4403142,23,47
+Jenny Hurtado Cifuentes,analista1,5283045,5,32
+Javier Toledo,analista1,4078352,20,33
+Virginia Valenzuela Carbonell,analista1,5605220,23,38
+Pancho Casanovas Casanovas,analista1,5386979,26,50
+Sabina Cornejo Vazquez,analista1,4132452,12,37
+Armida Posada Rosales,analista1,3513839,19,40
+Ricardo Toledo Tirado,analista1,4769839,6,49
+Lucila Duque Pujadas,analista1,4642047,22,51
+Basilio Marc Roca Manzano,analista1,4683431,18,24
+Manu Castillo Miralles,analista1,3659603,24,43
+Borja Bermudez,analista1,3550218,17,52
+Paca Sotelo,analista1,5726671,14,27
+Heriberto Cortes,analista1,3639504,11,50
+Aníbal Salvador Narváez,analista1,4962259,6,31
+Primitiva África Gallego Colomer,analista1,4634083,23,35
+Casandra Solís Ropero,analista1,4622984,5,29
+Caridad Camacho Salamanca,analista1,3873020,7,33
+Apolonia Fernandez-Infante,analista1,5485166,28,42
+Ángel Morante-Bellido,analista1,5616673,24,23
+Narciso Fabregat,analista1,3514647,11,47
+María Fernanda Elorza,analista1,5732169,2,39
+Haroldo Pastor Aramburu,analista1,3638703,22,44
+Daniel Galo Álvarez Esteve,analista1,4129853,28,47
+Pili Ordóñez Tejada,analista1,4194471,12,23
+Eli Melania Paz Fernandez,analista1,4904828,6,48
+Yéssica Sáez Royo,analista1,5677150,22,33
+Aránzazu Arana Soto,analista1,5370794,15,53
+Paz Santos Font,analista1,4910211,19,29
+Iris Zabaleta Corominas,analista1,4501357,12,41
+Virgilio de Alberdi,analista1,5617179,21,39
+Julia Roman Villa,analista1,4730383,8,55
+Pepito Garcés Ledesma,analista1,4035858,25,39
+Lupe Granados Alcolea,analista1,3946769,18,29
+Fabiana Alegria-Plaza,analista1,5234777,14,44
+Manu Company Fiol,analista1,4378983,7,35
+Camila Ávila Ocaña,analista1,4980005,25,40
+Luisina Milla Sainz,analista1,4076093,5,41
+Apolonia Peña Quevedo,analista1,3962630,10,24
+Amelia Marco Mayo,analista1,3529078,11,43
+Olimpia Diéguez Esparza,analista1,5584309,11,45
+Venceslás Valentín Hierro,analista1,4117087,30,39
+Pedro Bernat Carro,analista1,4899878,6,36
+Elisabet Guijarro Manuel,analista1,5532076,26,46
+Dorotea de Esparza,analista1,4962636,15,44
+Ruy Vendrell Pinilla,analista1,5425249,10,47
+Pili Torre Beltrán,analista1,4048609,19,28
+Jacobo Gascón Cordero,analista1,3852164,10,28
+Nazaret de Olivé,analista1,4529731,2,37
+Jesús Barrera Carballo,analista1,4964597,27,55
+Julieta Alcalde Barón,analista1,4479475,0,50
+Anunciación Folch Córdoba,analista1,5014055,9,53
+Fanny Beltran Jurado,analista1,4522425,23,38
+Arcelia de Borrego,analista1,5913262,22,36
+Alba Peinado Cortina,analista1,3775350,28,41
+Victorino Mateos Reyes,analista1,4471770,5,25
+Eusebio Arjona Moll,analista1,5111803,10,53
+Chus Nicolau Lasa,analista1,3700651,22,43
+Ámbar Sotelo Guardia,analista1,4298169,25,39
+Jacinto Santos-Belmonte,analista1,5803859,0,34
+Tatiana Lucas Gil,analista1,4715427,20,36
+Demetrio Arias Aliaga,analista1,4350456,3,43
+Moisés Álvarez Mercader,analista1,3843341,30,55
+María Del Carmen del Trujillo,analista1,4760741,15,46
+Ruperto Bautista Mariscal,analista1,4853557,29,40
+Roberto Pardo,analista1,3833339,7,36
+Bienvenida Esteban Torrens,analista1,4122476,16,33
+Emperatriz Escobar,analista1,5062191,9,47
+Silvio Nogueira Castrillo,analista1,5392950,19,35
+Héctor Alfonso Uría,analista1,3945961,23,46
+Susanita Santana Ureña,analista1,5248761,23,51
+Gisela Catalán Cardona,analista1,5736205,3,26
+Victor Berenguer Busquets,analista1,5308257,7,53
+Liliana del Montoya,analista1,4350144,0,23
+Juan Blanes Vázquez,analista1,5536664,14,48
+Lorenza Ochoa Guillén,analista1,4784237,17,45
+Pablo Crespo Gibert,analista1,5166823,14,33
+Lalo de Oliva,analista1,4158865,20,36
+Anabel de Otero,analista1,5395810,23,43
+Roxana Rincón Mulet,analista1,4864396,18,51
+Samuel Bárcena Mendez,analista1,3883504,0,28
+Brunilda Alcalá Donoso,analista1,3608163,4,44
+Guiomar Velasco Tormo,analista1,3749784,6,41
+Rufina de Gálvez,analista1,3725581,25,36
+Tomasa Gallart Rubio,analista1,4706187,28,25
+Ricardo Américo Blanco Iniesta,analista1,5115663,3,52
+Aristides Rosa,analista1,4893381,22,32
+Leandro Miguel Linares,analista1,4971300,2,31
+Rosa Villaverde,analista1,5013728,4,54
+Piedad Ayuso Gimeno,analista1,5853013,26,23
+Rosario Molina Ferrero,analista1,4915651,29,52
+Danilo Castellanos Guitart,analista1,5924909,3,22
+Roberta Coloma Angulo,analista1,5279829,17,46
+Arcelia Mariscal-Vazquez,analista1,4048480,26,22
+Graciana Barba Royo,analista1,4731537,22,35
+Ámbar Jaume-Velasco,analista1,4710638,21,55
+Emilia Felicidad Exposito Cárdenas,analista1,4843513,22,42
+Marino Salvador Cortés,analista1,5124514,8,44
+Nicanor Ribas Boada,analista1,3970140,27,50
+Tomás de Almansa,analista1,4685918,12,47
+Juanito Martínez Leon,analista1,4598999,12,37
+Martirio Hernandez Falcón,analista1,5821637,26,29
+Rufina Seco Valls,analista1,3638160,14,46
+Maite Herrera Correa,analista1,4943174,0,26
+Juan Leon Salazar,analista1,4312057,9,28
+Maite Barral Andrade,analista1,4541250,0,25
+Quique Vega,analista1,3675599,4,32
+Clotilde Isern Gámez,analista1,5373839,21,46
+Dominga Chacón Aroca,analista1,5316746,20,50
+Rosario Dalmau Jover,analista1,5059496,6,35
+Valeria Guillen,analista1,4646840,5,24
+Adriana Ribes Anglada,analista1,3993778,7,55
+Alex Portillo Busquets,analista1,5228750,1,55
+Chuy Tapia Mata,analista1,5680905,18,26
+Gustavo Gibert Trillo,analista1,3592551,8,37
+Alondra Abellán-Torres,analista1,4400301,6,34
+Adora Catalán Alvarez,analista1,4262355,16,28
+Domingo de Gómez,analista1,5330389,12,41
+Ani Viana Roselló,analista1,5425866,26,48
+Loreto Marco Linares,analista1,4787794,12,52
+Ciro Asensio Bernad,analista1,3707508,27,43
+Anita de Cuéllar,analista1,3899195,26,31
+Luz Sacristán-Escrivá,analista1,5182673,25,48
+Ismael Fiol,analista1,5042349,2,40
+Charo del Porta,analista1,5199788,2,23
+Epifanio Bautista Cazorla,analista1,4614864,5,47
+Belén Mosquera Morera,analista1,5106025,30,54
+Marianela Gras Duarte,analista1,5421420,19,44
+Remigio Cañellas Navarrete,analista1,5368944,6,24
+Marcelino Lorenzo Poza,analista1,5182261,6,24
+Casemiro Carretero Guijarro,analista1,5244959,11,45
+Basilio Juan Antonio Valencia Manjón,analista1,3727677,25,40
+Odalys Múñiz Pablo,analista1,3933011,5,49
+Vasco Millán Valenzuela,analista1,4465671,30,53
+Alexandra Perera Guardia,analista1,4461197,10,45
+Anselma de Almansa,analista1,4619177,27,22
+Ramón Codina Carbó,analista1,5925406,13,25
+Wilfredo Jaume Quintanilla,analista1,3724012,0,37
+Ainara Torralba Jordá,analista1,5036537,20,42
+Joel Agustí Querol,analista1,3749022,21,34
+Eutropio Estevez Camps,analista1,4979924,4,35
+Clementina Font,analista1,5123685,10,31
+Remedios Herranz Cabanillas,analista1,4787350,1,30
+Trinidad de Ibarra,analista1,5510887,7,50
+Renato Medina Galan,analista1,4062083,28,30
+Fito Rivera Hernandez,analista1,4757548,5,48
+Loreto del Bru,analista1,4013675,11,43
+Trinidad Roura Mendoza,analista1,4160334,25,45
+Juan Luis del Uribe,analista1,4606381,17,45
+Gerardo Óscar Cámara Avilés,analista1,3697115,17,52
+Ramón Mancebo Domingo,analista1,3500498,24,45
+Eduardo Alonso Calderón,analista1,5484287,19,47
+Blas Josué Valderrama Lasa,analista1,3555969,26,47
+Carla Maza Hoz,analista1,3748525,4,44
+Francisco Javier Arana Arias,analista1,5453378,7,29
+Rosaura Samper Riba,analista1,4015241,24,29
+Juan Antonio Carbonell Piquer,analista1,5763137,7,52
+Jose Angel Baldomero Dávila Cid,analista1,4750595,2,50
+Ruperta Figuerola Serra,analista1,5805034,14,36
+Chema Villalobos Bonilla,analista1,4264035,27,23
+Sancho Cantero-Bermudez,analista1,4669414,19,42
+Leandra Gordillo Casanovas,analista1,4826276,0,55
+Andrés Felipe Jimenez Coronado,analista1,3645698,27,54
+Ezequiel Aragonés Perales,analista1,3719178,9,41
+Adelia del Montenegro,analista1,4278771,0,27
+Severo Solé,analista1,5543069,30,27
+Julie Montaña Castejón,analista1,5431290,9,33
+Flor Pedraza Quintanilla,analista1,4832379,29,37
+Eloy Amor Córdoba,analista1,4818251,12,52
+Griselda Alcalá Casas,analista1,5073500,4,37
+Teobaldo Andrés Escrivá Agustín,analista1,4551595,3,34
+Simón Pinto,analista1,4137953,11,48
+Patricia Angelita Aguilar Salamanca,analista1,5121088,8,33
+Dorotea Canet Antón,analista1,4717925,13,30
+Trini Torres Tejera,analista1,3637326,29,25
+Marisol Esther Múgica Mesa,analista1,5945809,2,24
+Román Porras-Ponce,analista1,4777155,0,41
+Clara Angulo,analista1,5469018,27,26
+Augusto Vázquez Rodríguez,analista1,5415379,0,35
+Toni Bueno Roma,analista1,5532609,17,41
+Saturnina de Portero,analista1,4946698,23,27
+Anabel Bertrán Pol,analista1,4887932,17,49
+Elodia Blasco Gargallo,analista1,4150891,18,35
+Teresita Rosario Solsona Ávila,analista1,4614878,12,36
+Severiano González,analista1,5887797,30,52
+María Del Carmen Muñoz Becerra,analista1,5648044,15,51
+Adelina Sainz Expósito,analista1,3570893,9,27
+Laura Genoveva Muñoz Santos,analista1,5847170,7,33
+Galo Segura Salazar,analista1,4934475,18,44
+Tristán Salom Ruiz,analista1,5461188,4,32
+Domitila Robles Castellanos,analista1,5834214,25,38
+Laura Ángel Matas,analista1,5260670,30,33
+Juan Antonio Osorio Tenorio,analista1,3563418,18,40
+Anselma Andres Vidal,analista1,4628497,0,48
+Nydia Bautista Campo,analista1,3803974,0,31
+Elena Jordana Marin Rivera,analista1,4242029,24,30
+Rufino Sotelo Larrea,analista1,5632768,11,47
+Carmela Córdoba,analista1,4455409,26,42
+Jacobo Grau Reina,analista1,3594865,28,47
+Calisto Gual-Pereira,analista1,4915356,7,51
+Diana Sarmiento Roma,analista1,3866321,2,47
+Bernabé Andreu Matas,analista1,5664028,14,25
+Aristides Esteve Mármol,analista1,4567267,2,33
+Narcisa Vicens Córdoba,analista1,5663062,28,24
+Angelita de Osorio,analista1,4299087,1,49
+Loida Ruiz Salvador,analista1,5594363,2,37
+Horacio Llamas,analista1,5235586,13,55
+Marina Serra Chico,analista1,4444489,22,39
+Rosalía Valdés-Llorente,analista1,5834809,30,28
+Teo Expósito Ibarra,analista1,3741962,13,29
+Lorena Álvaro Piquer,analista1,5375203,1,38
+Nazaret Hernando Guillén,analista1,4541232,14,27
+Elisabet Salamanca,analista1,5503298,3,23
+Mamen Cámara Tolosa,analista1,5552676,20,34
+Lorena Calixta Cerdá Tovar,analista1,4899669,5,40
+Natalia Carrillo Bauzà,analista1,3936259,9,52
+Evangelina Márquez,analista1,5132159,26,41
+Demetrio Feliu Salinas,analista1,5817499,11,27
+Paula Coronado Fábregas,analista1,5571395,15,31
+Belén del Galvez,analista1,5830503,20,52
+Saturnina Mamen Beltrán Santamaria,analista1,4081894,1,51
+Manuelita Bonilla,analista1,5533808,10,25
+Javier Vega Bayo,analista1,3531161,22,52
+Piedad Planas Valle,analista1,5084268,0,52
+Silvio Haro Gallart,analista1,3987727,0,40
+Paula Cobo Pedrero,analista1,3556673,8,50
+Teobaldo Mancebo,analista1,3763402,23,44
+Primitivo Camps-Viana,analista1,5800133,27,35
+Eloy Cándido Bertrán Manuel,analista1,4378305,19,31
+Calixta de Nuñez,analista1,4450342,19,32
+Agustín del Cervera,analista1,3922946,19,36
+Eleuterio Gomez Boada,analista1,5411856,15,52
+Valentina Bertrán Cervantes,analista1,3607932,27,22
+Lucía Roman Canales,analista1,4328089,17,50
+Virgilio Aranda-Cervera,analista1,4906231,21,47
+Cruz Cerdá Llorens,analista1,3789002,0,29
+Esteban Romeu Pina,analista1,5414434,0,47
+Benjamín Pellicer Vicens,analista1,4814847,3,47
+Dorotea Ródenas Domínguez,analista1,4425875,20,39
+Adriana Iglesia Río,analista1,5672582,17,48
+Verónica Benítez Gallo,analista1,5831533,13,45
+Reyes Seco Talavera,analista1,4667246,5,24
+Adán Alvarez Escribano,analista1,4243860,13,54
+Pablo Zapata Barón,analista1,5932152,7,31
+Belen Marín Alberola,analista1,4630984,1,38
+Nieves Álvarez Valera,analista1,4497905,30,35
+Josefina Sancho Peñalver,analista1,4990395,22,35
+Angélica Antúnez Bello,analista1,5878191,6,40
+Jose Ignacio Cañizares Palomar,analista1,5084103,30,23
+Plinio Palma Arteaga,analista1,3627092,12,43
+Susana Garay Esparza,analista1,4706259,7,42
+Alexandra Olivares Vicente,analista1,3988187,9,52
+Aránzazu Nazaret Rozas Llano,analista1,5668340,4,51
+Patricia Barrena Zorrilla,analista1,5387225,2,54
+Pepito Elías-Mulet,analista1,4074280,8,33
+Daniel Moll Tejedor,analista1,4507709,0,42
+Melisa Pareja Seguí,analista1,5239535,10,40
+Jordi Diaz Torre,analista1,5019008,7,34
+Manuelita Esteve,analista1,5337173,3,31
+Jafet Orozco Valero,analista1,5818959,26,39
+María Manuela Cases Bilbao,analista2,4797923,14,48
+Amalia Español Vera,analista2,5966620,18,43
+Toño Rafael Mosquera Quero,analista2,4191300,30,24
+Eloísa Chico,analista2,5043097,19,32
+Charo Suárez Cabañas,analista2,5820502,20,24
+Lilia Aznar Gálvez,analista2,4412937,10,46
+Juan José del Chico,analista2,4777011,2,49
+Luis Ángel Juan José Mateu Franch,analista2,4832454,5,41
+Xavier Roura Juliá,analista2,3847859,22,45
+Mercedes de Company,analista2,4260732,12,51
+Saturnino Blazquez Fabregat,analista2,4978839,13,45
+Lucila Barba Andrés,analista2,5575822,26,43
+Cebrián Estévez Andrade,analista2,4122722,2,28
+Lourdes Abascal,analista2,3747404,24,31
+Almudena Barrios Ferrández,analista2,5598652,30,24
+Emilio Pagès Blanco,analista2,5701161,10,50
+Montserrat del Maza,analista2,5173229,16,22
+Violeta Pacheco,analista2,4101542,4,49
+Osvaldo Alcolea Llabrés,analista2,5008943,16,29
+Pilar Arenas Barroso,analista2,5989934,27,31
+Xiomara Vergara Vilar,analista2,5220591,8,42
+Rafaela Guerrero Roselló,analista2,4232617,27,45
+Gastón Sola-Toro,analista2,5027590,8,48
+Isidora Villalonga Nicolau,analista2,5653989,20,31
+Aarón Puerta Hidalgo,analista2,5159564,29,29
+Benigna Pagès Vizcaíno,analista2,4943198,22,26
+Bernarda Anguita Agudo,analista2,4532442,23,51
+Catalina Olivera,analista2,5775222,15,39
+Gonzalo Ribes Terrón,analista2,3572921,19,23
+Ramón Angulo,analista2,4104040,3,34
+Nilda Falcón Guillen,analista2,3881143,15,41
+Purificación Aura Montesinos Palomar,analista2,5617727,2,55
+Jose Ignacio Agustí Paz,analista2,4371169,16,24
+Inmaculada Cortés Acevedo,analista2,3516812,23,37
+Trinidad Giralt Goicoechea,analista2,4656345,20,22
+Pascuala Vicente-Maza,analista2,4161495,27,27
+Evangelina Sabina Castell Montero,analista2,3635944,0,46
+Jacobo Primitivo Díaz Marqués,analista2,3814226,10,45
+Serafina del Guillén,analista2,5619878,14,51
+Leandra Fernanda Almazán Riera,analista2,4614545,24,31
+Damián Solís-Ibáñez,analista2,4580517,4,35
+Andrés Rosell Piñeiro,analista2,3565601,0,43
+Lupe Cabezas Piñol,analista2,5289030,9,48
+Donato Chaves,analista2,3503313,14,37
+Fortunato del Rivera,analista2,4483101,24,32
+Teresa Sobrino Garmendia,analista1,5530449,9,48
+Violeta Robledo,analista1,4168425,21,43
+Néstor Marti Pérez,analista1,3871120,0,27
+Gabriel Águila Portero,analista1,3798328,30,40
+Rosendo Gregorio Díez Lillo,analista1,5622594,7,53
+Hugo Carlito Jerez Elorza,analista1,4057920,5,34
+María Luisa Rico Quesada,analista1,5275981,6,54
+Hilario Gomis Prado,analista1,5984612,23,50
+Luis Miguel Ochoa Arnau,analista1,5587102,20,24
+Belén Lina Sarmiento Marqués,analista1,3568632,14,55
+René de Cardona,analista1,4372446,26,45
+Juliana Fajardo Bernal,analista1,4639146,13,54
+Maricruz del Macias,analista1,4917072,28,25
+Rosario de Palomo,analista1,3920600,2,33
+Toribio Zamorano,analista1,5557295,15,28
+Corona de Miralles,analista1,5851988,28,49
+Guiomar Tovar Pla,analista1,5084024,6,42
+Jose Calvo,analista1,5104870,4,42
+Horacio Salazar Marcos,analista1,5915966,8,30
+Alberto Vall Ballesteros,analista1,4571132,8,53
+Conrado Acosta Yuste,analista1,3684739,17,29
+Leopoldo Soto-Quintana,analista1,5273873,7,27
+Haroldo Vélez Diego,analista1,4456373,2,55
+Primitiva Marqués,analista1,3696147,22,22
+Lilia Santiago Costa,analista1,3668589,2,30
+Jonatan Fuster Múñiz,analista1,4821963,12,49
+Manu Carranza Benavente,analista1,5547783,9,46
+Jose Miguel Ángel Mateos Pozuelo,analista1,3613161,18,38
+Cipriano Palacios Vall,analista1,5710173,24,35
+Abraham Almazán Perales,analista1,3659877,17,33
+María Artigas Giralt,analista1,5970489,4,30
+Saturnino Baquero-Oliva,analista1,5901616,6,53
+Andrea Camacho Fuentes,analista1,5505467,30,52
+Elena Morales Mateos,analista1,4083291,26,52
+Cintia Mur Baró,analista1,4444336,20,51
+Amado Arellano Solís,analista1,4058252,15,49
+Ambrosio Jordán Valls,analista1,4932579,25,39
+Cornelio Somoza Blanca,analista1,5580114,30,30
+Salomón Torrents Mancebo,analista1,3717465,28,48
+Andrés Granados,analista1,5461521,10,54
+Irene Morán Soto,analista1,4393678,11,34
+Lisandro Bueno,analista1,5606496,21,35
+Azeneth Gema Carballo Osorio,analista1,4301132,12,22
+Leocadio Sainz Arenas,analista1,5698357,10,26
+Eli Giralt-Santamaría,analista1,3656122,16,49
+Juan Tormo Alfaro,analista1,4623502,23,23
+Nieves Pastor Sevillano,analista1,4008056,27,31
+Quique Alcolea Montalbán,analista1,5702747,2,45
+Baltasar Gual Macías,analista1,5591909,5,50
+Josué Montero Piquer,analista1,3984408,28,45
+Javiera Cañellas Camino,analista1,4016616,25,51
+Nuria Boada-Rios,analista1,3650205,4,54
+Miguel Ángel Escrivá Jove,analista1,5552752,28,47
+Bernabé de Juliá,analista1,4208169,11,44
+Alfonso Villegas Barreda,analista1,5901798,17,41
+Leandro Calvet Quesada,analista1,4806788,11,39
+Jose Manuel Villa Tormo,analista1,3870078,9,45
+Catalina Espada-Palacios,analista1,3838715,14,30
+Pepito Iván Esteve Casal,analista1,4476227,8,32
+Bartolomé Alcaraz Montero,analista1,5096628,24,23
+Camilo Eric Vara Esteban,analista1,5094813,8,26
+Candelario Aguilar Carrión,analista1,3648852,16,44
+Antonia Nayara Larrañaga Calleja,analista1,3566346,27,53
+Jaime de Villaverde,analista1,4602617,0,51
+Isidoro Segismundo Cisneros Pujol,analista1,5958384,21,25
+Abril Solé Soriano,analista1,5416981,3,55
+Aitor Rueda-Casas,analista1,5920880,3,33
+Manuelita Valderrama Benavent,analista1,4349697,23,45
+Blas Camilo Calderon Guillen,analista1,3889734,28,41
+Florencia Arjona-Salamanca,analista1,3918055,25,37
+Eutropio Jafet Casares Moreno,analista1,3548342,11,37
+Celso Yáñez Giralt,analista1,4309831,12,48
+Ovidio Porcel-Noriega,analista1,5679198,24,31
+Cebrián Barrios-Grande,analista1,5041439,15,44
+Tomás Pombo Galán,analista1,3707226,26,55
+Ligia de Abellán,analista1,4323856,5,37
+Bernabé Arco Garay,analista1,4970831,24,36
+Roxana Quirós Vendrell,analista1,3561335,9,47
+Eliana Sandra Lillo Jódar,analista1,5815596,5,47
+Nico Arco Padilla,analista1,4648544,22,46
+Manuelita Peñas,analista1,5739027,24,38
+Seve Carreño,analista1,4432263,14,47
+Lorenzo Nogués-Azcona,analista1,5480241,21,43
+Epifanio Torrijos Ángel,analista1,5897817,17,42
+Flavia Roura-Briones,analista1,3957715,24,32
+Lourdes Puerta Granados,analista1,3802881,10,26
+Amor Arribas Casal,analista1,5168930,1,48
+Celestina Carreras Estevez,analista1,5463953,10,47
+Zacarías Luis Miguel Robledo Rosado,analista1,5787127,29,52
+Amado Losada,analista1,5381872,14,47
+Tito Canet Castell,analista1,3865191,1,34
+Jovita de Roura,analista1,5207390,18,33
+Felicia Carolina Uría Rivas,analista1,3973591,11,54
+Sol Arnaiz Santos,analista1,5989686,7,30
+Carolina Gual Lara,analista1,4534126,22,27
+Ruy Juárez Acuña,analista1,3623744,16,54
+Olegario Tudela,analista1,5718469,17,36
+Luís Perera Coronado,analista1,5740536,4,42
+Santos Coloma,analista1,5972756,30,29
+Alejandra Ibañez,analista1,5660289,25,36
+Roldán Bauzà Manzano,analista1,4678178,25,33
+Nilo Elorza Mayol,analista1,4024812,25,43
+Nazaret Quirós Porcel,analista1,5955074,14,46
+Nuria María Carmen Melero Pino,analista1,4137741,29,36
+Gracia de Vélez,analista1,5331539,17,39
+Leocadio Barragán Zurita,analista1,5596409,27,43
+Rosenda Fernandez Guillén,analista1,5216178,10,55
+Telmo Amaya Higueras,analista1,5938187,1,54
